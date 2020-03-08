@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IOTcar</string>
+    <string name="photo">拍照</string>
+    <string name="connect">连接</string>
+    <string name="forward">前进</string>
+    <string name="back">后退</string>
+    <string name="stop">停止</string>
+    <string name="left">左转</string>
+    <string name="right">右转</string>
+    <string name="input">请输入网址</string>
+</resources>
